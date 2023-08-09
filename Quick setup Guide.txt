@@ -1,0 +1,15 @@
+You will need total of 2 or more people to play the game!
+
+It supports PC (KBM + 8 Controllers)
+
+For Basic PC controls, 
+	press < or > to join a team during the ready up session!
+	Use the WASD key to move around, and use the Mouse to aim!
+	Use the left mouse button to activate Parry!
+	
+	Press P for restarting session.
+	It's hard coded currently for 5000 points. 
+
+
+-- Please note! If you have controllers hooked up and if they turn off during the game, it may bug out and assign controls to different players.
+ I cannot fix this as this is a controller hardware limitation, so if it does behave funky, please quit the game and restart it with all the controllers turned on.
